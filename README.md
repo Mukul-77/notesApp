@@ -1,2 +1,2 @@
 # notesApp
-My first note app made using MERN.
+My first notes making app made using MERN stack.
